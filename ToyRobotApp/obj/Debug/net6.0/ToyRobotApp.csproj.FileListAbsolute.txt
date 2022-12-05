@@ -1,0 +1,15 @@
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ToyRobotApp.csproj.AssemblyReference.cache
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ToyRobotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ToyRobotApp.AssemblyInfoInputs.cache
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ToyRobotApp.AssemblyInfo.cs
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ToyRobotApp.csproj.CoreCompileInputs.cache
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\ToyRobotApp.exe
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\ToyRobotApp.deps.json
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\ToyRobotApp.runtimeconfig.json
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\ToyRobotApp.dll
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\ToyRobotApp.pdb
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ToyRobotApp.dll
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\refint\ToyRobotApp.dll
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ToyRobotApp.pdb
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ToyRobotApp.genruntimeconfig.cache
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\obj\Debug\net6.0\ref\ToyRobotApp.dll

@@ -1,0 +1,5 @@
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\publish\ToyRobotApp.exe
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\publish\ToyRobotApp.dll
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\publish\ToyRobotApp.deps.json
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\publish\ToyRobotApp.runtimeconfig.json
+C:\Users\kindp\source\repos\ToyRobotApp\ToyRobotApp\bin\Debug\net6.0\publish\ToyRobotApp.pdb
